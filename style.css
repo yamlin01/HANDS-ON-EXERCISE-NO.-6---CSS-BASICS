@@ -1,0 +1,32 @@
+/* This is CSS */
+
+#header1{
+    text-align: center;
+    border-style: solid;
+    background-color:rgb(204, 86, 2);
+    padding: 75px;
+    margin: -10px;
+}
+
+.center{
+    align-content: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    color: green;
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(165, 131, 67);
+}
+footer{
+    text-align: center;
+}
